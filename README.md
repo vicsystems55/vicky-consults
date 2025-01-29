@@ -1,4 +1,4 @@
-# vicsystems_consulting
+# vickyconsults
 
 ## Project setup
 ```
